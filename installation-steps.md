@@ -17,10 +17,10 @@ reset webhook
 http://local.myweb.com/telegram-login/login_example.php
 
 
-http://local.myweb.com/telegram-login/login-with-bot.html
+http://local.myweb.com/telegram-login/login-with-bot.php
 	/inlinekeyboard
 	/help
-	
+
 
 
 
